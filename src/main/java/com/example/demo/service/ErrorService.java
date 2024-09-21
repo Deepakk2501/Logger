@@ -2,7 +2,6 @@ package com.example.demo.service;
 
 import com.example.demo.entity.ErrorAlert;
 import com.example.demo.entity.Role;
-import com.example.demo.request.ErrorRequest;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.stereotype.Service;
 
@@ -10,9 +9,7 @@ import java.time.LocalDate;
 import java.time.LocalDateTime;
 import java.time.LocalTime;
 import java.time.format.DateTimeFormatter;
-import java.util.Date;
 import java.util.LinkedHashMap;
-import java.util.List;
 import java.util.Map;
 
 @Service

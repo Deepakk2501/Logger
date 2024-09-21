@@ -1,6 +1,5 @@
 package com.example.demo.controller;
 
-import com.example.demo.request.ErrorRequest;
 import com.example.demo.service.ErrorService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.PostMapping;
